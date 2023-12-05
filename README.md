@@ -6,7 +6,16 @@ The mrp.osc object validates the osc path, but NOT the message arguments. The he
 
 Open the help-patcher for more information.
 
-Installation: Download or clone this repo into "/Path-to-Max-Folder/Max 8/Packages/mrp.osc".
+## Installation
+Download or clone this repo into "/Path-to-Max-Folder/Max 8/Packages/mrp.osc".
+
+Example (Mac OS):
+```
+cd ~/Documents/Max\ 8/Packages
+git clone https://github.com/michaelmariaott/mrp.osc.git
+```
+
+## Reference
 
 ```
 [mrp_osc host (opt) port (opt) @active (1 or 0, default: 0)]
