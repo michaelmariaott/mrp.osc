@@ -19,7 +19,7 @@ git clone https://github.com/michaelmariaott/mrp.osc.git
 ## Reference
 
 ```
-[mrp_osc host (opt) port (opt) @active (1 or 0, default: 0)]
+[mrp.osc host (opt) port (opt) @active (1 or 0, default: 0)]
 ```
 
 INLET:
