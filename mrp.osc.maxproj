@@ -2,9 +2,9 @@
 	"name" : "mrp.osc",
 	"version" : 1,
 	"creationdate" : 3784561787,
-	"modificationdate" : 3784568291,
-	"viewrect" : [ 7.0, 148.0, 300.0, 482.0 ],
-	"autoorganize" : 1,
+	"modificationdate" : 3784648532,
+	"viewrect" : [ 769.0, 175.0, 300.0, 482.0 ],
+	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
@@ -25,6 +25,14 @@
 		"code" : 		{
 			"validate_path.js" : 			{
 				"kind" : "javascript",
+				"local" : 1
+			}
+
+		}
+,
+		"data" : 		{
+			"license.txt" : 			{
+				"kind" : "textfile",
 				"local" : 1
 			}
 
