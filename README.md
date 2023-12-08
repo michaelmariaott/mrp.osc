@@ -1,9 +1,11 @@
 # mrp.osc
 
+This repo is archived. The active development of the `mrp.osc` object has moved to https://github.com/Intelligent-Instruments-Lab/iimrp.
+
 Max abstraction to send OSC to the MRP (Magnetic Resonator Piano).
 Values can be sent by sending a OSC message into the inlet.
-The mrp.osc object validates the OSC path, but NOT the message arguments. The helpfile contains a list of all viable paths and the arguments expected by the mrp.
-The mrp.osc object does monitor or limit the speed at which OSC messages are sent.
+The `mrp.osc` object validates the OSC path, but NOT the message arguments. The helpfile contains a list of all viable paths and the arguments expected by the mrp.
+The `mrp.osc` object does monitor or limit the speed at which OSC messages are sent.
 
 Open the help-patcher for more information.
 
